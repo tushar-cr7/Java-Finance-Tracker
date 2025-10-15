@@ -1,0 +1,8 @@
+# Java class files
+*.class
+# Maven/Gradle/IDE generated files
+/bin/
+/target/
+.project
+.classpath
+.settings/

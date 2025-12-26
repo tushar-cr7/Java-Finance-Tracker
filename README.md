@@ -1,15 +1,41 @@
-# Java-Finance-Tracker
-A tool for all your finance calculations and management
+# Java Finance Tracker
 
- ---->  Uses a dedicated Transaction class to model financial data.
+A simple Java console application to track income and expenses.  
+This project is built using core Java and OOPS concepts.
 
-File Persistence: Automatically saves all transactions to a persistent file (transactions.csv) upon exit and loads them at startup.
-Calculations: Calculates the current account balance and generates reports on total income/expenses.
-Data Format: Transactions are saved in a simple Comma Separated Values (CSV) format for easy inspection.
+---
 
-🛠️ Technology Stack
-Language: Java
+## Features
+- Add income
+- Add expenses
+- View total balance
+- Simple menu-driven interface
 
-MAIN CONCEPT:
+---
 
-Encapsulation: The Transaction class manages its own data integrity.
+## Concepts Used
+- Classes and Objects
+- Encapsulation
+- Conditional statements
+- Loops
+- ArrayList (if used)
+
+---
+
+## How to Run
+1. Clone the repository
+2. Compile the Java files
+3. Run the main class
+
+
+---
+
+## Future Improvements
+- File storage
+- User authentication
+- GUI version
+
+---
+
+## Author
+Tushar :)
